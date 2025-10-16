@@ -5349,7 +5349,7 @@
     </owl:Class>
     
 
-
+<!-- ToDo: to be checked if this base scenario is really a base scenario or not simply a combination of merging_cut_through_r_0 with lc_r_2 -->
     <!-- http://www.semanticweb.org/ika/vvmethods/cruise/sce#merging_cut_through_r_2 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/ika/vvmethods/cruise/sce#merging_cut_through_r_2">
