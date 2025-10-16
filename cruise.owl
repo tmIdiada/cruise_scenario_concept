@@ -4692,17 +4692,6 @@
     
 
 
-    <!-- http://www.semanticweb.org/ika/vvmethods/cruise/sce#lc_l_3 -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/ika/vvmethods/cruise/sce#lc_l_3">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#lc_3"/>
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#lc_left"/>
-        <rdfs:label xml:lang="de">Fahrstreifenwechsel mit Vorausfahrendem und Hinterherfahrendem nach links</rdfs:label>
-        <rdfs:label xml:lang="en">Lane change left with lead object and following object</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://www.semanticweb.org/ika/vvmethods/cruise/sce#lc_left -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/ika/vvmethods/cruise/sce#lc_left">
@@ -4749,17 +4738,6 @@
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#lc_right"/>
         <rdfs:label xml:lang="de">Fahrstreifenwechsel mit Hinterherfahrendem nach rechts</rdfs:label>
         <rdfs:label xml:lang="en">Lane change right with following object</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- http://www.semanticweb.org/ika/vvmethods/cruise/sce#lc_r_3 -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/ika/vvmethods/cruise/sce#lc_r_3">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#lc_3"/>
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#lc_right"/>
-        <rdfs:label xml:lang="de">Fahrstreifenwechsel mit Vorausfahrendem und Hinterherfahrendem nach rechts</rdfs:label>
-        <rdfs:label xml:lang="en">Lane change right with lead object and following object</rdfs:label>
     </owl:Class>
     
 
