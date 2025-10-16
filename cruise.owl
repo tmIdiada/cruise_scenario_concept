@@ -1893,17 +1893,6 @@
     
 
 
-    <!-- http://www.semanticweb.org/ika/vvmethods/cruise/sce#aborted_lc_l_3 -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/ika/vvmethods/cruise/sce#aborted_lc_l_3">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#aborted_lc_3"/>
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#aborted_lc_l"/>
-        <rdfs:label xml:lang="de">Abgebrochener Fahrstreifenwechsel nach links mit Vorausfahrendem und Hinterherfahrendem</rdfs:label>
-        <rdfs:label xml:lang="en">Aborted lane change left with lead object and following object</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://www.semanticweb.org/ika/vvmethods/cruise/sce#aborted_lc_r -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/ika/vvmethods/cruise/sce#aborted_lc_r">
