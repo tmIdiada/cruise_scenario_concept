@@ -4771,8 +4771,8 @@
                 <owl:onClass rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/con#to_oncoming"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:label xml:lang="de">Fahrstreifenwechsel in Gegenverkehr</rdfs:label>
-        <rdfs:label xml:lang="en">Lane change to oncoming traffic</rdfs:label>
+        <rdfs:label xml:lang="de">Fahrstreifenwechsel in Gegenverkehr ohne Gegenverkehr</rdfs:label>
+        <rdfs:label xml:lang="en">Lane change to oncoming traffic without oncoming traffic</rdfs:label>
     </owl:Class>
     
 
@@ -4782,8 +4782,8 @@
     <owl:Class rdf:about="http://www.semanticweb.org/ika/vvmethods/cruise/sce#lc_to_oncoming_0">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#lc_0"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#lc_to_oncoming"/>
-        <rdfs:label xml:lang="de">Fahrstreifenwechsel in Gegenverkehr ohne Hinterherfahrenden</rdfs:label>
-        <rdfs:label xml:lang="en">Lane change to oncoming traffic without following object</rdfs:label>
+        <rdfs:label xml:lang="de">Fahrstreifenwechsel in Gegenverkehr mit Gegenverkehr</rdfs:label>
+        <rdfs:label xml:lang="en">Lane change to oncoming traffic with oncoming object</rdfs:label>
     </owl:Class>
     
 
@@ -4793,8 +4793,8 @@
     <owl:Class rdf:about="http://www.semanticweb.org/ika/vvmethods/cruise/sce#lc_to_oncoming_2">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#lc_2"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#lc_to_oncoming"/>
-        <rdfs:label xml:lang="de">Fahrstreifenwechsel in Gegenverkehr mit Hinterherfahrendem</rdfs:label>
-        <rdfs:label xml:lang="en">Lane change to oncoming traffic with following object</rdfs:label>
+        <rdfs:label xml:lang="de">Fahrstreifenwechsel in Gegenverkehr mit Hinterherfahrendem im Gegenverkehr</rdfs:label>
+        <rdfs:label xml:lang="en">Lane change to oncoming traffic with following object in oncoming traffic</rdfs:label>
     </owl:Class>
     
 
