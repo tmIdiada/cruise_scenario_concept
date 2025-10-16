@@ -1943,17 +1943,6 @@
     
 
 
-    <!-- http://www.semanticweb.org/ika/vvmethods/cruise/sce#aborted_lc_r_3 -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/ika/vvmethods/cruise/sce#aborted_lc_r_3">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#aborted_lc_3"/>
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#aborted_lc_r"/>
-        <rdfs:label xml:lang="de">Abgebrochener Fahrstreifenwechsel nach rechts mit Vorausfahrendem und Hinterherfahrendem</rdfs:label>
-        <rdfs:label xml:lang="en">Aborted lane change right with lead object and following object</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://www.semanticweb.org/ika/vvmethods/cruise/sce#approach -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/ika/vvmethods/cruise/sce#approach">
