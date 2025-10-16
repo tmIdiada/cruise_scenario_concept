@@ -3407,7 +3407,7 @@
                 <owl:onClass rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/con#from_right"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:label xml:lang="de">Eintritt eines Objekts von rechts</rdfs:label>
+        <rdfs:label xml:lang="de">Eintritt von rechts</rdfs:label>
         <rdfs:label xml:lang="en">Object entering from right</rdfs:label>
     </owl:Class>
     
