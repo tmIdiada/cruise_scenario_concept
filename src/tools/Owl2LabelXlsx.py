@@ -18,7 +18,7 @@ def main():
     classes_df = pd.DataFrame.from_dict(classes_dict)
     classes_df = classes_df.fillna('')
 
-    classes_df.to_excel("criuse_reduced.xlsx")
+    classes_df.to_excel("cruise_reduced.xlsx")
 
     print(classes_df)
 
