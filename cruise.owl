@@ -5453,19 +5453,8 @@
     <owl:Class rdf:about="http://www.semanticweb.org/ika/vvmethods/cruise/sce#merging_lcs_l_0">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#merging_lcs_0"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#merging_lcs_l"/>
-        <rdfs:label xml:lang="en">Merging lane changes left without following object</rdfs:label>
-        <rdfs:label xml:lang="de">Zusammenführende Fahrstreifenwechsel nach links ohne Hinterherfahrenden</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- http://www.semanticweb.org/ika/vvmethods/cruise/sce#merging_lcs_l_2 -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/ika/vvmethods/cruise/sce#merging_lcs_l_2">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#merging_lcs_2"/>
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#merging_lcs_l"/>
-        <rdfs:label xml:lang="en">Merging lane changes left with following object</rdfs:label>
-        <rdfs:label xml:lang="de">Zusammenführende Fahrstreifenwechsel nach links mit Hinterherfahrenden</rdfs:label>
+        <rdfs:label xml:lang="en">Merging lane changes left</rdfs:label>
+        <rdfs:label xml:lang="de">Zusammenführende Fahrstreifenwechsel nach links</rdfs:label>
     </owl:Class>
     
 
@@ -5492,19 +5481,8 @@
     <owl:Class rdf:about="http://www.semanticweb.org/ika/vvmethods/cruise/sce#merging_lcs_r_0">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#merging_lcs_0"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#merging_lcs_r"/>
-        <rdfs:label xml:lang="en">Merging lane changes right without following object</rdfs:label>
-        <rdfs:label xml:lang="de">Zusammenführende Fahrstreifenwechsel nach rechts ohne Hinterherfahrenden</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- http://www.semanticweb.org/ika/vvmethods/cruise/sce#merging_lcs_r_2 -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/ika/vvmethods/cruise/sce#merging_lcs_r_2">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#merging_lcs_2"/>
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#merging_lcs_r"/>
-        <rdfs:label xml:lang="en">Merging lane changes right with following object</rdfs:label>
-        <rdfs:label xml:lang="de">Zusammenführende Fahrstreifenwechsel nach rechts mit Hinterherfahrenden</rdfs:label>
+        <rdfs:label xml:lang="en">Merging lane changes right</rdfs:label>
+        <rdfs:label xml:lang="de">Zusammenführende Fahrstreifenwechsel nach rechts</rdfs:label>
     </owl:Class>
     
 
