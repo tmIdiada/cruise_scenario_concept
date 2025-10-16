@@ -10,7 +10,7 @@ CONCEPT_PREFIX = "con#"
 def main():
     bs_owl = get_owl("cruise.owl")
 
-    xlsx = pd.read_excel('criuse_reduced.xlsx')
+    xlsx = pd.read_excel('cruise_reduced.xlsx')
     put_labels(xlsx, bs_owl, 'label_DE', "de")
     put_labels(xlsx, bs_owl, 'label_EN', "en")
 
