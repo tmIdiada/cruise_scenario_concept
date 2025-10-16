@@ -4641,17 +4641,6 @@
     
 
 
-    <!-- http://www.semanticweb.org/ika/vvmethods/cruise/sce#lc_from_oc_3 -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/ika/vvmethods/cruise/sce#lc_from_oc_3">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#lc_3"/>
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#lc_from_oncoming"/>
-        <rdfs:label xml:lang="de">Fahrstreifenwechsel aus Gegenverkehr mit Vorausfahrendem und Hinterherfahrenden</rdfs:label>
-        <rdfs:label xml:lang="en">Lane change from oncoming traffic with leading and following vehicles</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://www.semanticweb.org/ika/vvmethods/cruise/sce#lc_from_oncoming -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/ika/vvmethods/cruise/sce#lc_from_oncoming">
