@@ -4787,7 +4787,7 @@
     </owl:Class>
     
 
-
+<!-- ToDo: to be checked if this base scenario is really a base scenario or not simply a combination of one of the upper ones (lc_to_oncoming or lc_to_oncoming_0) with lc_l_2 -->
     <!-- http://www.semanticweb.org/ika/vvmethods/cruise/sce#lc_to_oncoming_2 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/ika/vvmethods/cruise/sce#lc_to_oncoming_2">
