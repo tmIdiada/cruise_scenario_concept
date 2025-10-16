@@ -5316,17 +5316,6 @@
     </owl:Class>
     
 
-<!-- ToDo: to be checked if this base scenario is really a base scenario or not simply a combination of merging_cut_through_l_0 with lc_l_2 -->
-    <!-- http://www.semanticweb.org/ika/vvmethods/cruise/sce#merging_cut_through_l_2 -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/ika/vvmethods/cruise/sce#merging_cut_through_l_2">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#merging_cut_through_2"/>
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#merging_cut_through_l"/>
-        <rdfs:label xml:lang="en">Merging cut through left with following vehicle</rdfs:label>
-        <rdfs:label xml:lang="de">Zusammenführender Durchscherer nach links mit Hinterherfahrendem</rdfs:label>
-    </owl:Class>
-    
-
 
     <!-- http://www.semanticweb.org/ika/vvmethods/cruise/sce#merging_cut_through_r -->
 
@@ -5346,17 +5335,6 @@
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#merging_cut_through_r"/>
         <rdfs:label xml:lang="en">Merging cut through right without following vehicle</rdfs:label>
         <rdfs:label xml:lang="de">Zusammenführender Durchscherer nach rechts ohne Hinterherfahrenden</rdfs:label>
-    </owl:Class>
-    
-
-<!-- ToDo: to be checked if this base scenario is really a base scenario or not simply a combination of merging_cut_through_r_0 with lc_r_2 -->
-    <!-- http://www.semanticweb.org/ika/vvmethods/cruise/sce#merging_cut_through_r_2 -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/ika/vvmethods/cruise/sce#merging_cut_through_r_2">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#merging_cut_through_2"/>
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#merging_cut_through_r"/>
-        <rdfs:label xml:lang="en">Merging cut through right with following vehicle</rdfs:label>
-        <rdfs:label xml:lang="de">Zusammenführender Durchscherer nach rechts mit Hinterherfahrendem</rdfs:label>
     </owl:Class>
     
 
