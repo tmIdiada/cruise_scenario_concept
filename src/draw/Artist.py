@@ -1,3 +1,4 @@
+import os
 import cairo
 import math
 from Infra import *
@@ -43,6 +44,8 @@ class Artist():
 
 
     def write(self, name):
+        if os.path.dirname(name) and not os.path.isdir(os.path.dirname(name)):
+            os.makedirs(os.path.dirname(name))
         self.surface.write_to_png(name)
     
 
