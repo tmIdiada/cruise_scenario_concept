@@ -7846,17 +7846,6 @@
     
 
 
-    <!-- http://www.semanticweb.org/ika/vvmethods/cruise/sce#sync_lcs_l_2 -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/ika/vvmethods/cruise/sce#sync_lcs_l_2">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#sync_lcs_2"/>
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#sync_lcs_l"/>
-        <rdfs:label xml:lang="de">Synchrone Fahrstreifenwechsel nach links mit Hinterherfahrendem</rdfs:label>
-        <rdfs:label xml:lang="en">Synchronous lane changes left with following object</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://www.semanticweb.org/ika/vvmethods/cruise/sce#sync_lcs_r -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/ika/vvmethods/cruise/sce#sync_lcs_r">
@@ -7881,17 +7870,6 @@
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#sync_lcs_r"/>
         <rdfs:label xml:lang="de">Synchrone Fahrstreifenwechsel nach rechts ohne Hinterherfahrenden</rdfs:label>
         <rdfs:label xml:lang="en">Synchronous lane changes right without following object</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- http://www.semanticweb.org/ika/vvmethods/cruise/sce#sync_lcs_r_2 -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/ika/vvmethods/cruise/sce#sync_lcs_r_2">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#sync_lcs_2"/>
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#sync_lcs_r"/>
-        <rdfs:label xml:lang="de">Synchrone Fahrstreifenwechsel nach rechts mit Hinterherfahrendem</rdfs:label>
-        <rdfs:label xml:lang="en">Synchronous lane changes right with following object</rdfs:label>
     </owl:Class>
     
 
