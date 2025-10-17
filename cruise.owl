@@ -5845,52 +5845,6 @@
     
 
 
-    <!-- http://www.semanticweb.org/ika/vvmethods/cruise/sce#overlap_lane_approaching_oncoming_approaching_lead -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/ika/vvmethods/cruise/sce#overlap_lane_approaching_oncoming_approaching_lead">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#overlap_lane_left"/>
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#overlap_lane_with_leading"/>
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#overlap_lane_with_oncoming"/>
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise#applies_for_ego"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/con#approaching"/>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-        <rdfs:comment xml:lang="de">Fahrstreifen überlappen und sich einem Entgegenkommenden und einem Vorausfahrenden annähern</rdfs:comment>
-        <rdfs:comment xml:lang="en">Overlap lane approaching an oncoming object and a leading object</rdfs:comment>
-        <rdfs:label xml:lang="de">Den Fahrstreifen überlappend sich einem Entgegenkommenden und einem Vorausfahrenden annähern</rdfs:label>
-        <rdfs:label xml:lang="en">Overlap lane approaching an oncoming and a leading object</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- http://www.semanticweb.org/ika/vvmethods/cruise/sce#overlap_lane_approaching_oncoming_following_lead -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/ika/vvmethods/cruise/sce#overlap_lane_approaching_oncoming_following_lead">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#overlap_lane_left"/>
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#overlap_lane_with_leading"/>
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/sce#overlap_lane_with_oncoming"/>
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise#applies_for_ego"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/con#approaching"/>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise#applies_for_ego"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/ika/vvmethods/cruise/con#following"/>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-        <rdfs:comment xml:lang="de">Fahrstreifen überlappen und sich einem Entgegenkommenden annähern und einem Vorausfahrenden folgen</rdfs:comment>
-        <rdfs:comment xml:lang="en">Overlap lane approaching an oncoming object while following a leading object</rdfs:comment>
-        <rdfs:label xml:lang="de">Den Fahrstreifen überlappend einem Vorausfahrenden folgen</rdfs:label>
-        <rdfs:label xml:lang="en">Overlap lane approaching an oncoming and following a leading object</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://www.semanticweb.org/ika/vvmethods/cruise/sce#overlap_lane_following_lead_l -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/ika/vvmethods/cruise/sce#overlap_lane_following_lead_l">
